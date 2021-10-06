@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(13, 13, 14);
+    font-family: monospace;
+    font-size: large;
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+}
+
+.header .container {
+    background-color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    font-size: larger;
+    color: aqua;
+}
+
+.content .container {
+    padding: 3em;
+    margin: 2em;
+    background-color: rgb(8, 8, 8);
+    text-align: justify;
+    font-size: large;
+}
+
+.content .container .ld {
+    color: coral;
+    font-weight: bolder;
+}
+
+.ex {
+    color: chartreuse;
+}
+
+.p {
+    color: coral;
+}
+
